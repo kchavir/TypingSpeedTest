@@ -21,7 +21,7 @@ Start typing the shown text: <br/>
 <br />
 <br />
 See the results and click "retry" button to retry:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/kchavir/TypingSpeedTest/blob/main/Results.png?raw=true" height="80%" width="80%" alt="Typing Speed Results"/>
 <br />
 <br />
 
