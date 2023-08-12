@@ -17,7 +17,7 @@ The user has 60 seconds to type as many words as possible, and after that, we sh
 
 <p align="center">
 Start typing the shown text: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/kchavir/TypingSpeedTest/blob/main/Typing.png?raw=true" height="80%" width="80%" alt="Typing Process"/>
 <br />
 <br />
 See the results and click "retry" button to retry:  <br/>
